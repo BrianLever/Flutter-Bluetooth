@@ -1,0 +1,4 @@
+#Tue Nov 09 09:40:47 MSK 2021
+base.0=D\:\\MyWork\\FlutterBluetoothWorking\\flutter-esp32-bluetooth\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

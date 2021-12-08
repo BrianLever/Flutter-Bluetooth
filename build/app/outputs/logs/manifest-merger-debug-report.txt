@@ -1,0 +1,138 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\MyWork\FlutterBluetoothWorking\flutter-esp32-bluetooth\android\app\src\main\AndroidManifest.xml:1:1-36:12
+INJECTED from D:\MyWork\FlutterBluetoothWorking\flutter-esp32-bluetooth\android\app\src\main\AndroidManifest.xml:1:1-36:12
+INJECTED from D:\MyWork\FlutterBluetoothWorking\flutter-esp32-bluetooth\android\app\src\main\AndroidManifest.xml:1:1-36:12
+INJECTED from D:\MyWork\FlutterBluetoothWorking\flutter-esp32-bluetooth\android\app\src\main\AndroidManifest.xml:1:1-36:12
+MERGED from D:\MyWork\FlutterBluetoothWorking\flutter-esp32-bluetooth\android\app\src\main\AndroidManifest.xml:1:1-36:12
+MERGED from [:flutter_blue] D:\MyWork\FlutterBluetoothWorking\flutter-esp32-bluetooth\build\flutter_blue\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\ghghghgfhghg\.gradle\caches\transforms-1\files-1.1\fragment-1.1.0.aar\1dd9a6e941f2825259e89cc7efbc29ca\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\ghghghgfhghg\.gradle\caches\transforms-1\files-1.1\activity-1.0.0.aar\7989c2ddac8e4112eac6ed9e53f9ee83\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ghghghgfhghg\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\f51f3d8ad21701e23129900f128b016e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ghghghgfhghg\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\30aba0e488575f33cc85d20b1d6a3519\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\ghghghgfhghg\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\4ca0aeed8c3c50d96743e9c3d32e5ec9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\ghghghgfhghg\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\fb1fb8df2d9a15c60d3ed5555fb231eb\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\ghghghgfhghg\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.2.0.aar\602b489e0b8c21bfc702cf90a805890d\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\ghghghgfhghg\.gradle\caches\transforms-1\files-1.1\savedstate-1.0.0.aar\72325a13c5131f49820aa6c09713e529\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\ghghghgfhghg\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\a5a3e0c2bfacbf44c4630ead04eb152a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\ghghghgfhghg\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\ce4dba0b8ee1af29bd19324f861231cb\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\ghghghgfhghg\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\b0e44341a8d868ab13a92e13df9edc62\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\ghghghgfhghg\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\9a6626fdc527c1bd96f11b33e2eb6bac\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\ghghghgfhghg\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.1.0.aar\d6bda2aa6e1c4bf5f1fa3949da1a1a10\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\MyWork\FlutterBluetoothWorking\flutter-esp32-bluetooth\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from D:\MyWork\FlutterBluetoothWorking\flutter-esp32-bluetooth\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from D:\MyWork\FlutterBluetoothWorking\flutter-esp32-bluetooth\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from D:\MyWork\FlutterBluetoothWorking\flutter-esp32-bluetooth\android\app\src\main\AndroidManifest.xml:2:5-39
+		INJECTED from D:\MyWork\FlutterBluetoothWorking\flutter-esp32-bluetooth\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\MyWork\FlutterBluetoothWorking\flutter-esp32-bluetooth\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\MyWork\FlutterBluetoothWorking\flutter-esp32-bluetooth\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\MyWork\FlutterBluetoothWorking\flutter-esp32-bluetooth\android\app\src\main\AndroidManifest.xml:1:1-36:12
+		INJECTED from D:\MyWork\FlutterBluetoothWorking\flutter-esp32-bluetooth\android\app\src\debug\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\MyWork\FlutterBluetoothWorking\flutter-esp32-bluetooth\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\MyWork\FlutterBluetoothWorking\flutter-esp32-bluetooth\android\app\src\main\AndroidManifest.xml:1:1-36:12
+		INJECTED from D:\MyWork\FlutterBluetoothWorking\flutter-esp32-bluetooth\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\MyWork\FlutterBluetoothWorking\flutter-esp32-bluetooth\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.BLUETOOTH
+ADDED from D:\MyWork\FlutterBluetoothWorking\flutter-esp32-bluetooth\android\app\src\main\AndroidManifest.xml:9:5-68
+MERGED from [:flutter_blue] D:\MyWork\FlutterBluetoothWorking\flutter-esp32-bluetooth\build\flutter_blue\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-68
+MERGED from [:flutter_blue] D:\MyWork\FlutterBluetoothWorking\flutter-esp32-bluetooth\build\flutter_blue\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-68
+	android:name
+		ADDED from D:\MyWork\FlutterBluetoothWorking\flutter-esp32-bluetooth\android\app\src\main\AndroidManifest.xml:9:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from D:\MyWork\FlutterBluetoothWorking\flutter-esp32-bluetooth\android\app\src\main\AndroidManifest.xml:10:5-74
+MERGED from [:flutter_blue] D:\MyWork\FlutterBluetoothWorking\flutter-esp32-bluetooth\build\flutter_blue\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:8:5-74
+MERGED from [:flutter_blue] D:\MyWork\FlutterBluetoothWorking\flutter-esp32-bluetooth\build\flutter_blue\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:8:5-74
+	android:name
+		ADDED from D:\MyWork\FlutterBluetoothWorking\flutter-esp32-bluetooth\android\app\src\main\AndroidManifest.xml:10:22-71
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\MyWork\FlutterBluetoothWorking\flutter-esp32-bluetooth\android\app\src\main\AndroidManifest.xml:11:5-80
+MERGED from [:flutter_blue] D:\MyWork\FlutterBluetoothWorking\flutter-esp32-bluetooth\build\flutter_blue\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:9:5-81
+MERGED from [:flutter_blue] D:\MyWork\FlutterBluetoothWorking\flutter-esp32-bluetooth\build\flutter_blue\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from D:\MyWork\FlutterBluetoothWorking\flutter-esp32-bluetooth\android\app\src\main\AndroidManifest.xml:11:22-78
+application
+ADDED from D:\MyWork\FlutterBluetoothWorking\flutter-esp32-bluetooth\android\app\src\main\AndroidManifest.xml:12:5-35:19
+MERGED from [androidx.core:core:1.1.0] C:\Users\ghghghgfhghg\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\fb1fb8df2d9a15c60d3ed5555fb231eb\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\ghghghgfhghg\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\fb1fb8df2d9a15c60d3ed5555fb231eb\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\ghghghgfhghg\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\9a6626fdc527c1bd96f11b33e2eb6bac\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\ghghghgfhghg\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\9a6626fdc527c1bd96f11b33e2eb6bac\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\ghghghgfhghg\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\fb1fb8df2d9a15c60d3ed5555fb231eb\AndroidManifest.xml:24:18-86
+activity#com.example.flutteresp32.MainActivity
+ADDED from D:\MyWork\FlutterBluetoothWorking\flutter-esp32-bluetooth\android\app\src\main\AndroidManifest.xml:16:9-34:20
+	android:launchMode
+		ADDED from D:\MyWork\FlutterBluetoothWorking\flutter-esp32-bluetooth\android\app\src\main\AndroidManifest.xml:18:13-43
+	android:hardwareAccelerated
+		ADDED from D:\MyWork\FlutterBluetoothWorking\flutter-esp32-bluetooth\android\app\src\main\AndroidManifest.xml:21:13-47
+	android:windowSoftInputMode
+		ADDED from D:\MyWork\FlutterBluetoothWorking\flutter-esp32-bluetooth\android\app\src\main\AndroidManifest.xml:22:13-55
+	android:configChanges
+		ADDED from D:\MyWork\FlutterBluetoothWorking\flutter-esp32-bluetooth\android\app\src\main\AndroidManifest.xml:20:13-144
+	android:theme
+		ADDED from D:\MyWork\FlutterBluetoothWorking\flutter-esp32-bluetooth\android\app\src\main\AndroidManifest.xml:19:13-47
+	android:name
+		ADDED from D:\MyWork\FlutterBluetoothWorking\flutter-esp32-bluetooth\android\app\src\main\AndroidManifest.xml:17:13-41
+meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
+ADDED from D:\MyWork\FlutterBluetoothWorking\flutter-esp32-bluetooth\android\app\src\main\AndroidManifest.xml:27:13-29:40
+	android:value
+		ADDED from D:\MyWork\FlutterBluetoothWorking\flutter-esp32-bluetooth\android\app\src\main\AndroidManifest.xml:29:17-37
+	android:name
+		ADDED from D:\MyWork\FlutterBluetoothWorking\flutter-esp32-bluetooth\android\app\src\main\AndroidManifest.xml:28:17-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\MyWork\FlutterBluetoothWorking\flutter-esp32-bluetooth\android\app\src\main\AndroidManifest.xml:30:13-33:29
+action#android.intent.action.MAIN
+ADDED from D:\MyWork\FlutterBluetoothWorking\flutter-esp32-bluetooth\android\app\src\main\AndroidManifest.xml:31:17-68
+	android:name
+		ADDED from D:\MyWork\FlutterBluetoothWorking\flutter-esp32-bluetooth\android\app\src\main\AndroidManifest.xml:31:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\MyWork\FlutterBluetoothWorking\flutter-esp32-bluetooth\android\app\src\main\AndroidManifest.xml:32:17-76
+	android:name
+		ADDED from D:\MyWork\FlutterBluetoothWorking\flutter-esp32-bluetooth\android\app\src\main\AndroidManifest.xml:32:27-74
+uses-sdk
+INJECTED from D:\MyWork\FlutterBluetoothWorking\flutter-esp32-bluetooth\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\MyWork\FlutterBluetoothWorking\flutter-esp32-bluetooth\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\MyWork\FlutterBluetoothWorking\flutter-esp32-bluetooth\android\app\src\main\AndroidManifest.xml
+MERGED from [:flutter_blue] D:\MyWork\FlutterBluetoothWorking\flutter-esp32-bluetooth\build\flutter_blue\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_blue] D:\MyWork\FlutterBluetoothWorking\flutter-esp32-bluetooth\build\flutter_blue\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\ghghghgfhghg\.gradle\caches\transforms-1\files-1.1\fragment-1.1.0.aar\1dd9a6e941f2825259e89cc7efbc29ca\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\ghghghgfhghg\.gradle\caches\transforms-1\files-1.1\fragment-1.1.0.aar\1dd9a6e941f2825259e89cc7efbc29ca\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\ghghghgfhghg\.gradle\caches\transforms-1\files-1.1\activity-1.0.0.aar\7989c2ddac8e4112eac6ed9e53f9ee83\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\ghghghgfhghg\.gradle\caches\transforms-1\files-1.1\activity-1.0.0.aar\7989c2ddac8e4112eac6ed9e53f9ee83\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ghghghgfhghg\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\f51f3d8ad21701e23129900f128b016e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ghghghgfhghg\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\f51f3d8ad21701e23129900f128b016e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ghghghgfhghg\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\30aba0e488575f33cc85d20b1d6a3519\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ghghghgfhghg\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\30aba0e488575f33cc85d20b1d6a3519\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\ghghghgfhghg\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\4ca0aeed8c3c50d96743e9c3d32e5ec9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\ghghghgfhghg\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\4ca0aeed8c3c50d96743e9c3d32e5ec9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\ghghghgfhghg\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\fb1fb8df2d9a15c60d3ed5555fb231eb\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\ghghghgfhghg\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\fb1fb8df2d9a15c60d3ed5555fb231eb\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\ghghghgfhghg\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.2.0.aar\602b489e0b8c21bfc702cf90a805890d\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\ghghghgfhghg\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.2.0.aar\602b489e0b8c21bfc702cf90a805890d\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\ghghghgfhghg\.gradle\caches\transforms-1\files-1.1\savedstate-1.0.0.aar\72325a13c5131f49820aa6c09713e529\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\ghghghgfhghg\.gradle\caches\transforms-1\files-1.1\savedstate-1.0.0.aar\72325a13c5131f49820aa6c09713e529\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\ghghghgfhghg\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\a5a3e0c2bfacbf44c4630ead04eb152a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\ghghghgfhghg\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\a5a3e0c2bfacbf44c4630ead04eb152a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\ghghghgfhghg\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\ce4dba0b8ee1af29bd19324f861231cb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\ghghghgfhghg\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\ce4dba0b8ee1af29bd19324f861231cb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\ghghghgfhghg\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\b0e44341a8d868ab13a92e13df9edc62\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\ghghghgfhghg\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\b0e44341a8d868ab13a92e13df9edc62\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\ghghghgfhghg\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\9a6626fdc527c1bd96f11b33e2eb6bac\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\ghghghgfhghg\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\9a6626fdc527c1bd96f11b33e2eb6bac\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\ghghghgfhghg\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.1.0.aar\d6bda2aa6e1c4bf5f1fa3949da1a1a10\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\ghghghgfhghg\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.1.0.aar\d6bda2aa6e1c4bf5f1fa3949da1a1a10\AndroidManifest.xml:20:5-44
+INJECTED from D:\MyWork\FlutterBluetoothWorking\flutter-esp32-bluetooth\android\app\src\debug\AndroidManifest.xml
+INJECTED from D:\MyWork\FlutterBluetoothWorking\flutter-esp32-bluetooth\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\MyWork\FlutterBluetoothWorking\flutter-esp32-bluetooth\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\MyWork\FlutterBluetoothWorking\flutter-esp32-bluetooth\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\MyWork\FlutterBluetoothWorking\flutter-esp32-bluetooth\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\MyWork\FlutterBluetoothWorking\flutter-esp32-bluetooth\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\MyWork\FlutterBluetoothWorking\flutter-esp32-bluetooth\android\app\src\debug\AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from D:\MyWork\FlutterBluetoothWorking\flutter-esp32-bluetooth\android\app\src\debug\AndroidManifest.xml:6:22-64

@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\MyWork\\FlutterBluetoothWorking\\flutter-esp32-bluetooth\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ky\\values-ky.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ghghghgfhghg\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.1.0.aar\\fb1fb8df2d9a15c60d3ed5555fb231eb\\res\\values-ky\\values-ky.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}
